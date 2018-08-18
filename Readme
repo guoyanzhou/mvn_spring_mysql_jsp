@@ -1,0 +1,6 @@
+Maven project will start Tomcat automatically.
+
+To run:
+From project MavenSprintMysql, run as -> Run on Server, http://localhost:8080/index.html
+login:admin
+pwd:123456
